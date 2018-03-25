@@ -42,4 +42,8 @@ public class PersonDal {
         int rid = MysqlJDBCHelper.queryObject("select id from `user` where id=" + id, Integer.class);
         return rid;
     }
+
+    public static void x(){
+
+    }
 }

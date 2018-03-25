@@ -15,13 +15,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="alljavatest" target="1.5" />
+      <module name="alljavatest" target="1.8" />
       <module name="center" target="1.8" />
-      <module name="common" target="1.5" />
+      <module name="common" target="1.8" />
       <module name="dal" target="1.8" />
       <module name="model" target="1.8" />
-      <module name="restful" target="1.5" />
-      <module name="test" target="1.5" />
+      <module name="restful" target="1.8" />
+      <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
